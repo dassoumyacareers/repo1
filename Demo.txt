@@ -1,1 +1,2 @@
 This is the first test commit
+Now we are going to add the second commit
