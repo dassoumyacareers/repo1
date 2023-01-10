@@ -2,8 +2,8 @@ def check_method(*args):
   """
   this is method which accepts arguments 
   """
-  iter_for_n_times = args[3]
-  x = args[4]
+  iter_for_n_times = args[3]     # args[3] mapping the index position 3 in the print statement ie. iteration_range
+  x = args[4]                    # args[4] mapping the index position 4 in the print statement ie. check_var
   
   for num in range(iter_for_n_times):
     print(num)
